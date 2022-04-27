@@ -1,6 +1,6 @@
 ---
-title: 关于
+title: 关于网站
 layout: about
+comments: true
 ---
-
-这是一个演示博客,欢迎登陆[管理页](/admin/)查看并实际体验效果
+各种合集，建议收藏网站以备用时
