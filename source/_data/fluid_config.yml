@@ -4,7 +4,7 @@ navbar:
     enable: true
 index:
   banner_img: source/images/uploads/background.webp
-  banner_img_height: 40
+  banner_img_height: 100
   slogan:
     text: 各种合集
 post:
